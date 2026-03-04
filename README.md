@@ -1,3 +1,3 @@
 # sqlite-clone
-# sqlite-clone
-# sqlite-clone
+
+Run npx tsx main.ts
